@@ -1,0 +1,9 @@
+{
+  "volume_id": "1-I_1-II/771_2x",
+  "filename": "771_2x_prediction.tiff",
+  "fold": 1,
+  "threshold": 0.972,
+  "xy_step": 2,
+  "input_is_crop": false,
+  "axes": "ZYX"
+}

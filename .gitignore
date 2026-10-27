@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+software/outputs/
+software/figures/
+software/sample_folders.json
+software/paper_workspace.json
